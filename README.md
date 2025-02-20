@@ -7,7 +7,9 @@
 <br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="center" >
-  <img src ="[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,mysql,react,bootstrap,express,git)](https://skillicons.dev)"/>
+  <a href="ttps://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mysql,react,bootstrap,express,git"/>
+  </a>
 </p>
 
 <br>
