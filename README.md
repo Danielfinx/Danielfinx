@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning **WEB Development Full-Stack**
 <!-- <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"> -->
-<img align="right" alt="Coding" width="200" src="https://media.tenor.com/nhc2g3Hvy8sAAAAM/flash-dark-theme.gif">
+<img align="right" alt="Coding" width="200" style="margin: auto;" src="https://media.tenor.com/nhc2g3Hvy8sAAAAM/flash-dark-theme.gif">
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
@@ -26,7 +26,7 @@
 <br>
 
 <h3>My GitHub Stats</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<img align="right" alt="Coding" width="300" style="margin: auto;" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Danielfinx&show_icons=true&theme=dark&locale=en&layout=compact" alt="Danielfinx" /></p>
