@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning **WEB Development Full-Stack**
 <!--<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"> -->
-<img align="right" alt="Coding" width="200" style="margin-right: 100px;" src="https://media.tenor.com/nhc2g3Hvy8sAAAAM/flash-dark-theme.gif">
+<img align="right" alt="Coding" width="200" src="https://media.tenor.com/nhc2g3Hvy8sAAAAM/flash-dark-theme.gif">
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
@@ -12,7 +12,7 @@
   </a>
 </p>
 
-<hr width="50%" >
+<hr width="60%" >
 <br>
 
 <h3>My GitHub Stats</h3>
