@@ -22,7 +22,7 @@
 <!-- <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p><br> -->
 
 <br>
-<hr width="60%" >
+<hr width="50%" >
 <br>
 
 <h3>My GitHub Stats</h3>
