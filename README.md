@@ -6,13 +6,12 @@
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
-<p align="center" >
+<p align="left" >
   <a href="ttps://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mysql,react,bootstrap,express,git"/>
   </a>
 </p>
 
-<br>
 <hr width="50%" >
 <br>
 
