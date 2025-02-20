@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning **WEB Development Full-Stack**
 <!-- <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"> -->
-<img align="right" alt="Coding" width="150" src="https://media.tenor.com/nhc2g3Hvy8sAAAAM/flash-dark-theme.gif">
+<img align="right" alt="Coding" width="200" src="https://media.tenor.com/nhc2g3Hvy8sAAAAM/flash-dark-theme.gif">
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
@@ -21,7 +21,9 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <!-- <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p><br> -->
 
-<hr width="36%" >
+<br>
+<hr width="60%" >
+<br>
 
 <h3>My GitHub Stats</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
